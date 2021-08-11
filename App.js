@@ -10,7 +10,7 @@ export default function App() {
       <SafeAreaView style={{ flex: 1, marginTop: StatusBar.currentHeight }}>
         <View style={{ padding: 16, backgroundColor: 'green' }}>
           <Text>
-            search
+            search 1234
           </Text>
         </View>
         <View style={{ flex: 1, padding: 16, backgroundColor: 'blue' }}>
