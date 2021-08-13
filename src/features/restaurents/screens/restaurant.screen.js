@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
         marginTop: StatusBar.currentHeight
     },
     search: {
-        padding: 16,   
+        padding: 16,
     },
     list: {
         flex: 1,
