@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     },
     search: {
         padding: 16,
-    },
+    }, 
     list: {
         flex: 1,
         padding: 16,
